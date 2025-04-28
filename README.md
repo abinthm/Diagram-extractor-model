@@ -62,9 +62,6 @@ The `DiagramExtractor` class accepts the following parameters:
 Extracted diagrams are saved in the `extracted_diagrams` directory with filenames following the pattern:
 `diagram_[original_filename]_[detection_index]_[box_index].png`
 
-## License
-
-[Add your license information here]
 
 ## Acknowledgments
 
